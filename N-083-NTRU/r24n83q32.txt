@@ -1,0 +1,5 @@
+all seconds=2558
+all bkz seconds=2496.290969848633
+success=20
+num=18
+seconds=2558
