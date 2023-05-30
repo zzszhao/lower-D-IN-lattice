@@ -2,4 +2,4 @@
 
 Environment：
 SageMath 9.1+
-Some older versions of SageMath contain a faulty FPLLL version which contains a bug that prevents our experiments from running successfully. Either use SageMath 9.3+ or manually install fpylll.
+Some older versions of SageMath contain a faulty FPLLL version which contains a bug that prevents our experiments from running successfully. Either use SageMath 9.1+ or manually install fpylll.
